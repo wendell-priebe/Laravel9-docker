@@ -5,6 +5,10 @@ Clonar repositório
 ```sh
 git clone https://github.com/wendell-priebe/Laravel9-docker.git
 ```
+Remover o versionamento
+```sh
+rm -rf .git/
+```
 Criar aquivo .env
 ```sh
 cp .env.example .env
