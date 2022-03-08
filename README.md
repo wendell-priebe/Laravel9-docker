@@ -5,6 +5,10 @@ Clonar repositório
 ```sh
 git clone https://github.com/wendell-priebe/Laravel9-docker.git
 ```
+Acessar pasta
+```sh
+cd Laravel9-docker
+```
 Remover o versionamento
 ```sh
 rm -rf .git/
